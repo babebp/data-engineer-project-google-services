@@ -1,5 +1,5 @@
 ## Project's Description
-Ingest data from API with <b>Python</b> , store raw data in <b>Google Cloud Storage</b> , build data pipeline with <b>Apache spark</b> , load data into <b>Google BigQuery</b> then create dashboard with <b>Google Looker Studio</b>
+Ingest data from API with <b>Python</b> , store raw data in <b>Google Cloud Storage</b> , build data pipeline with <b>Apache Spark</b> , load data into <b>Google BigQuery</b> then create dashboard with <b>Google Looker Studio</b>
 
 ## Data Lake - Google Cloud Storage
 1. Create Project
@@ -8,4 +8,4 @@ Ingest data from API with <b>Python</b> , store raw data in <b>Google Cloud Stor
    - Others settings is default
 3. Go in bucket and upload the file (can upload with UI or CLI gsutil or Python SDK)
 
-gsuil documentaion : https://cloud.google.com/storage/docs/gsutil
+gsutil documentaion : https://cloud.google.com/storage/docs/gsutil
