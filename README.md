@@ -1,7 +1,7 @@
 ![Workflow Cover](img/data-engineer-project-google-services-workflow.jpeg)
 
 ## Project's Description
-Ingest data from API with <b>Python</b> , store raw data in <b>Google Cloud Storage</b> , build data pipeline with <b>Apache Spark</b> , load data into <b>Google BigQuery</b> then create dashboard with <b>Google Looker Studio</b>
+Ingest data from API with **Python** , store raw data in **Google Cloud Storage** , build data pipeline with **Apache Spark** , load data into **Google BigQuery** then create dashboard with **Google Looker Studio**
 
 ## Data Lake - Google Cloud Storage
 1. Create Project
@@ -13,9 +13,9 @@ Ingest data from API with <b>Python</b> , store raw data in <b>Google Cloud Stor
 gsutil documentaion : https://cloud.google.com/storage/docs/gsutil
 
 ## Data Pipeline - Cloud Composer + Apache Airflow + DAGs
-We use <b>Cloud Composer</b> as an environment.
-1. Go to <b>Cloud Composer</b> in <b>Google Cloud Console</b>
-2. Create <b>Cloud Composer 1</b>
+We use **Cloud Composer** as an environment.
+1. Go to **Cloud Composer** in **Google Cloud Console**
+2. Create **Cloud Composer 1**
    - name an environment
    - Location (nearest from your country) : us-central1
    - Machine type : n1-standard-2 (RAM 7.5 GB)
