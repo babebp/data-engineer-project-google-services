@@ -13,7 +13,7 @@ Ingest data from API with **Python** , store raw data in **Google Cloud Storage*
 gsutil documentaion : https://cloud.google.com/storage/docs/gsutil
 
 ## Data Pipeline - Cloud Composer + Apache Airflow + DAGs
-We use **Cloud Composer** as an environment.
+**Cloud Composer** is fully-managed Apache Airflow 
 1. Go to **Cloud Composer** in **Google Cloud Console**
 2. Create **Cloud Composer 1**
    - name an environment
