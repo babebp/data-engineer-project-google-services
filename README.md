@@ -23,3 +23,8 @@ gsutil documentaion : https://cloud.google.com/storage/docs/gsutil
    - Image Version : select the latest
    - Python version : 3
    - leave others settings default
+3. Add Package for **Cloud Composer**
+   - add 3 packages (pymysql, requests, pandas)
+4. After finish creating **Cloud Composer** then go to **Airflow webserver**
+![image](https://github.com/babebp/data-engineer-project-google-services/assets/86760397/3af0daa0-51f6-4e30-ad23-5f55725d5ce1)
+
